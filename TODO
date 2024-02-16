@@ -1,0 +1,9 @@
+TODO:
+ - finish usage/help
+ - write argument check (--help, -h)
+ - if no arg check if file is valid and get ready to deploy
+ - learn how to use the libray curl
+ - add curl function to deploy
+ - send a test paste (no functions or check)
+ - code all functions from ppaste.sh
+ - have a neurism XD
